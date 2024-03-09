@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["TRUSTED 💯","VANSTORE ⚡"];
+const statusMessages = ["VANSTORE","TRUSTED 💯","Open 24/7"];
 
 
 let currentIndex = 0;
